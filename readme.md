@@ -1,4 +1,4 @@
-HTML (HyperText Markup Language) es el lenguaje estándar utilizado para crear páginas web. En este breve blog, exploraremos los fundamentos de HTML y su estructura básica.
+HTML (HyperText Markup Language) es el lenguaje estándar utilizado para crear páginas web.
 
 ## Cabecera (`<header>`)
 
